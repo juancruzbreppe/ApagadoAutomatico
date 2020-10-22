@@ -1,0 +1,27 @@
+E:\Documentos\Desktop\Proyectos propios\Apagado automatico\ApagadoAutomatico\ApagadoAutomatico\bin\Debug\ApagadoAutomatico.exe.config
+E:\Documentos\Desktop\Proyectos propios\Apagado automatico\ApagadoAutomatico\ApagadoAutomatico\bin\Debug\ApagadoAutomatico.exe
+E:\Documentos\Desktop\Proyectos propios\Apagado automatico\ApagadoAutomatico\ApagadoAutomatico\bin\Debug\ApagadoAutomatico.pdb
+E:\Documentos\Desktop\Proyectos propios\Apagado automatico\ApagadoAutomatico\ApagadoAutomatico\obj\Debug\ApagadoAutomatico.csprojAssemblyReference.cache
+E:\Documentos\Desktop\Proyectos propios\Apagado automatico\ApagadoAutomatico\ApagadoAutomatico\obj\Debug\ApagadoAutomatico.Form1.resources
+E:\Documentos\Desktop\Proyectos propios\Apagado automatico\ApagadoAutomatico\ApagadoAutomatico\obj\Debug\ApagadoAutomatico.Properties.Resources.resources
+E:\Documentos\Desktop\Proyectos propios\Apagado automatico\ApagadoAutomatico\ApagadoAutomatico\obj\Debug\ApagadoAutomatico.csproj.GenerateResource.cache
+E:\Documentos\Desktop\Proyectos propios\Apagado automatico\ApagadoAutomatico\ApagadoAutomatico\obj\Debug\ApagadoAutomatico.exe
+E:\Documentos\Desktop\Proyectos propios\Apagado automatico\ApagadoAutomatico\ApagadoAutomatico\obj\Debug\ApagadoAutomatico.pdb
+E:\Documentos\Desktop\Proyectos propios\Apagado automatico\ApagadoAutomatico\ApagadoAutomatico\bin\Debug\ApagadoAutomatico.exe.manifest
+E:\Documentos\Desktop\Proyectos propios\Apagado automatico\ApagadoAutomatico\ApagadoAutomatico\bin\Debug\ApagadoAutomatico.application
+E:\Documentos\Desktop\Proyectos propios\Apagado automatico\ApagadoAutomatico\ApagadoAutomatico\obj\Debug\ApagadoAutomatico.exe.manifest
+E:\Documentos\Desktop\Proyectos propios\Apagado automatico\ApagadoAutomatico\ApagadoAutomatico\obj\Debug\ApagadoAutomatico.application
+C:\Users\Juan Cruz\Desktop\Proyectos propios\Apagado automatico\ApagadoAutomatico\ApagadoAutomatico\bin\Debug\ApagadoAutomatico.exe.config
+C:\Users\Juan Cruz\Desktop\Proyectos propios\Apagado automatico\ApagadoAutomatico\ApagadoAutomatico\bin\Debug\ApagadoAutomatico.exe.manifest
+C:\Users\Juan Cruz\Desktop\Proyectos propios\Apagado automatico\ApagadoAutomatico\ApagadoAutomatico\bin\Debug\ApagadoAutomatico.application
+C:\Users\Juan Cruz\Desktop\Proyectos propios\Apagado automatico\ApagadoAutomatico\ApagadoAutomatico\bin\Debug\ApagadoAutomatico.exe
+C:\Users\Juan Cruz\Desktop\Proyectos propios\Apagado automatico\ApagadoAutomatico\ApagadoAutomatico\bin\Debug\ApagadoAutomatico.pdb
+C:\Users\Juan Cruz\Desktop\Proyectos propios\Apagado automatico\ApagadoAutomatico\ApagadoAutomatico\obj\Debug\ApagadoAutomatico.csprojAssemblyReference.cache
+C:\Users\Juan Cruz\Desktop\Proyectos propios\Apagado automatico\ApagadoAutomatico\ApagadoAutomatico\obj\Debug\ApagadoAutomatico.Form1.resources
+C:\Users\Juan Cruz\Desktop\Proyectos propios\Apagado automatico\ApagadoAutomatico\ApagadoAutomatico\obj\Debug\ApagadoAutomatico.Properties.Resources.resources
+C:\Users\Juan Cruz\Desktop\Proyectos propios\Apagado automatico\ApagadoAutomatico\ApagadoAutomatico\obj\Debug\ApagadoAutomatico.csproj.GenerateResource.cache
+C:\Users\Juan Cruz\Desktop\Proyectos propios\Apagado automatico\ApagadoAutomatico\ApagadoAutomatico\obj\Debug\ApagadoAutomatico.csproj.CoreCompileInputs.cache
+C:\Users\Juan Cruz\Desktop\Proyectos propios\Apagado automatico\ApagadoAutomatico\ApagadoAutomatico\obj\Debug\ApagadoAutomatico.exe.manifest
+C:\Users\Juan Cruz\Desktop\Proyectos propios\Apagado automatico\ApagadoAutomatico\ApagadoAutomatico\obj\Debug\ApagadoAutomatico.application
+C:\Users\Juan Cruz\Desktop\Proyectos propios\Apagado automatico\ApagadoAutomatico\ApagadoAutomatico\obj\Debug\ApagadoAutomatico.exe
+C:\Users\Juan Cruz\Desktop\Proyectos propios\Apagado automatico\ApagadoAutomatico\ApagadoAutomatico\obj\Debug\ApagadoAutomatico.pdb
