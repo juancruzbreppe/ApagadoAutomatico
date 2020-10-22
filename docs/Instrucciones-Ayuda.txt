@@ -1,0 +1,31 @@
+ESPAÑOL:
+
+1) Ejecutar el archivo llamado "Setup"
+2) Hacer click en Instalar
+3) Luego se instala y se ejecuta al instante
+
+----------------------------------------------
+
+Preguntas:
+-¿Como lo desinstalo?
++Se puede desinstalar desde panel de control, en quitar un programa, aparece como "Apagado automatico"
+
+-Ya puse una hora en especial para que se apague, como lo cancelo si cerre el programa?
++Si le estableciste una hora en especial y cerraste el programa, lo que tenes que hacer 
+es establecerle una hora cualquiera, no va a sustituir el tiempo que ya tenes, esto habilita el boton de cancelar
+
+
+ENGLISH:
+
+1) Run the file named "Setup"
+2) Click Install
+3) Then it installs and runs instantly
+
+----------------------------------------------
+
+Questions:
+-How do I uninstall it?
++ It can be uninstalled from the control panel, in removing a program, it appears as "Automatic shutdown"
+
+-I have already set a special time for it to turn off, how do I cancel it if I close the program?
++ If you set a special time and closed the program, what you have to do is to set any time, it will not replace the time you already have, this enables the cancel button
